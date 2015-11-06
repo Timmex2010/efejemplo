@@ -126,5 +126,19 @@ namespace Ejercicio01
         {
 
         }
+
+        private void button_Click(object sender, RoutedEventArgs e)
+        {
+            if (Regex.IsMatch(depas.Text, @"^[a-zA-Z]+$"))
+            {
+                demoEF db = new demoEF();
+                Departamento deps = new Departamento();
+                deps.nombre = depas.Text;
+
+
+                db.Departamento.Add(deps);
+                db.SaveChanges();
+            }
+            }
     }
 }
