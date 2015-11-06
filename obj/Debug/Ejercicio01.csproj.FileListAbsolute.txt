@@ -16,3 +16,22 @@ c:\users\administador\documents\visual studio 2012\Projects\Ejercicio01\Ejercici
 c:\users\administador\documents\visual studio 2012\Projects\Ejercicio01\Ejercicio01\obj\Debug\Ejercicio01.exe
 c:\users\administador\documents\visual studio 2012\Projects\Ejercicio01\Ejercicio01\obj\Debug\Ejercicio01.pdb
 c:\users\administador\documents\visual studio 2012\Projects\Ejercicio01\Ejercicio01\obj\Debug\Ejercicio01.Migrations.empleadoTabla.resources
+C:\Users\IoMeng\Desktop\Ejercicio01\Ejercicio01\bin\Debug\Ejercicio01.exe.config
+C:\Users\IoMeng\Desktop\Ejercicio01\Ejercicio01\bin\Debug\Ejercicio01.exe
+C:\Users\IoMeng\Desktop\Ejercicio01\Ejercicio01\bin\Debug\Ejercicio01.pdb
+C:\Users\IoMeng\Desktop\Ejercicio01\Ejercicio01\bin\Debug\EntityFramework.dll
+C:\Users\IoMeng\Desktop\Ejercicio01\Ejercicio01\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\IoMeng\Desktop\Ejercicio01\Ejercicio01\bin\Debug\EntityFramework.xml
+C:\Users\IoMeng\Desktop\Ejercicio01\Ejercicio01\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\IoMeng\Desktop\Ejercicio01\Ejercicio01\obj\Debug\Ejercicio01.csprojResolveAssemblyReference.cache
+C:\Users\IoMeng\Desktop\Ejercicio01\Ejercicio01\obj\Debug\MainWindow.baml
+C:\Users\IoMeng\Desktop\Ejercicio01\Ejercicio01\obj\Debug\MainWindow.g.cs
+C:\Users\IoMeng\Desktop\Ejercicio01\Ejercicio01\obj\Debug\App.g.cs
+C:\Users\IoMeng\Desktop\Ejercicio01\Ejercicio01\obj\Debug\Ejercicio01_MarkupCompile.cache
+C:\Users\IoMeng\Desktop\Ejercicio01\Ejercicio01\obj\Debug\Ejercicio01.g.resources
+C:\Users\IoMeng\Desktop\Ejercicio01\Ejercicio01\obj\Debug\Ejercicio01.Migrations.empleadoTabla.resources
+C:\Users\IoMeng\Desktop\Ejercicio01\Ejercicio01\obj\Debug\Ejercicio01.Properties.Resources.resources
+C:\Users\IoMeng\Desktop\Ejercicio01\Ejercicio01\obj\Debug\Ejercicio01.csproj.GenerateResource.Cache
+C:\Users\IoMeng\Desktop\Ejercicio01\Ejercicio01\obj\Debug\Ejercicio01.exe
+C:\Users\IoMeng\Desktop\Ejercicio01\Ejercicio01\obj\Debug\Ejercicio01.pdb
+C:\Users\IoMeng\Desktop\Ejercicio01\Ejercicio01\obj\Debug\Ejercicio01.Migrations.deps.resources
