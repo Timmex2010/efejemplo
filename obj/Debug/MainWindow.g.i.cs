@@ -119,6 +119,14 @@ namespace Ejercicio01 {
         #line default
         #line hidden
         
+        
+        #line 20 "..\..\MainWindow.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
+        internal System.Windows.Controls.ComboBox CbDepartamentos;
+        
+        #line default
+        #line hidden
+        
         private bool _contentLoaded;
         
         /// <summary>
@@ -151,6 +159,12 @@ namespace Ejercicio01 {
             {
             case 1:
             this.Sueldo = ((System.Windows.Controls.Grid)(target));
+            
+            #line 5 "..\..\MainWindow.xaml"
+            this.Sueldo.Loaded += new System.Windows.RoutedEventHandler(this.Sueldo_Loaded);
+            
+            #line default
+            #line hidden
             return;
             case 2:
             this.Nombre = ((System.Windows.Controls.TextBox)(target));
@@ -230,6 +244,9 @@ namespace Ejercicio01 {
             
             #line default
             #line hidden
+            return;
+            case 13:
+            this.CbDepartamentos = ((System.Windows.Controls.ComboBox)(target));
             return;
             }
             this._contentLoaded = true;
