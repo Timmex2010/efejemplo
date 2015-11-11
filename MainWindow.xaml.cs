@@ -144,10 +144,15 @@ namespace Ejercicio01
 
         private void Sueldo_Loaded(object sender, RoutedEventArgs e)
         {
+     
+        }
+
+        private void CbDepartamentos_Loaded(object sender, RoutedEventArgs e)
+        {
             demoEF db = new demoEF();
             CbDepartamentos.ItemsSource = db.Departamento.ToList();
-            CbDepartamentos.DisplayMemberPath = "Nombre";
-            CbDepartamentos.SelectedValuePath = "Id";
+            CbDepartamentos.DisplayMemberPath = "nombre";
+            CbDepartamentos.SelectedValuePath = "id";
         }
     }
 }
