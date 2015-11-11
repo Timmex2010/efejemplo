@@ -35,3 +35,4 @@ C:\Users\IoMeng\Desktop\Ejercicio01\Ejercicio01\obj\Debug\Ejercicio01.csproj.Gen
 C:\Users\IoMeng\Desktop\Ejercicio01\Ejercicio01\obj\Debug\Ejercicio01.exe
 C:\Users\IoMeng\Desktop\Ejercicio01\Ejercicio01\obj\Debug\Ejercicio01.pdb
 C:\Users\IoMeng\Desktop\Ejercicio01\Ejercicio01\obj\Debug\Ejercicio01.Migrations.deps.resources
+C:\Users\IoMeng\Desktop\Ejercicio01\Ejercicio01\obj\Debug\Ejercicio01.Migrations.correcciondep.resources

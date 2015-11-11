@@ -37,7 +37,7 @@ namespace Ejercicio01
                 emp.Nombre = Nombre.Text;
                 emp.Sueldo = int.Parse(Sueldo1.Text);
                 emp.id= (int)CbDepartamentos.SelectedValue;
-
+                emp.DepartamentoId = (int)CbDepartamentos.SelectedValue;
                 db.Empleados.Add(emp);
                 db.SaveChanges();
             }
@@ -153,6 +153,16 @@ namespace Ejercicio01
             CbDepartamentos.ItemsSource = db.Departamento.ToList();
             CbDepartamentos.DisplayMemberPath = "nombre";
             CbDepartamentos.SelectedValuePath = "id";
+        }
+
+        private void textBox_TextChanged(object sender, TextChangedEventArgs e)
+        {
+
+        }
+
+        private void CbDepartamentos_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+
         }
     }
 }
